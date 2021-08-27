@@ -6,6 +6,8 @@ Personal Python Toolbox of code elements & blocks that I use often.
 
 I created this Toolbox after going back & forth between Stack Overflow and Numpy, Pandas, Matplotlib, etc. I'm now updating it along the way !
 
+<br>
+
 **Note**: Just discovered the **Plotly** library, really awesome visualisations & dashboard features.
 
 <br>
